@@ -1,8 +1,34 @@
 HTML {
   text-align: center;
   margin: 0 auto;
+  background-color: #000000;
+}
+
+h1, h2, p, a {
+  font-family: Verdana, arial, sans-serif;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
 }
 
 p {
-  color: red;
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+footer p {
+  text-align: right;
 }
